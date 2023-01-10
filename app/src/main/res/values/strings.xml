@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidMVPExample</string>
+    <string name="update_image">Update Image</string>
+    <string name="loading">Loading</string>
+    <string name="retry">Retry</string>
+</resources>
